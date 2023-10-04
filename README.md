@@ -1349,7 +1349,7 @@ public class PrintAbbreviations {
 
 ---
 
-### *35. n Queens using Branch and Bounds*
+### *35. N Queens using Branch and Bounds*
 
 ```java
 import java.util.Scanner;
