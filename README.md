@@ -1208,7 +1208,7 @@ public class TargetSumSubsets {
 
 ---
 
-### *32. n Queens*
+### *32. N Queens*
 
 ```java
 import java.util.Scanner;
