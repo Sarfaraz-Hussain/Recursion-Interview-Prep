@@ -1772,7 +1772,7 @@ public class CrosswordPuzzle {
 
 ---
 
-### *42. Cryptarithmetic Puzzle*
+### *41. Cryptarithmetic Puzzle*
 
 ```java
 import java.util.HashMap;
