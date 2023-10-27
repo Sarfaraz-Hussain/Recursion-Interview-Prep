@@ -7,7 +7,7 @@ public class RemoveInvalidParenthesis {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
         sc.close();
-        solve(str, getMin(str), new HashSet<>());
+        solve(str, getMin(str), new HashSet<>() );
     }
 
     private static void solve(String str, int mra, HashSet<String> ans) {
